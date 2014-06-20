@@ -1,2 +1,7 @@
-*.lang
+.gradle
 eclipse
+out
+build
+NekMod.iml
+NekMod.ipr
+NekMod.iws
