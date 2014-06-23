@@ -19,7 +19,7 @@ apply plugin: 'forge'
 
 version = "1.7.2-1.0"
 group= "com.nekrul.nekmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "nekmod"
+archivesBaseName = "NekMod"
 
 minecraft {
     version = "1.7.2-10.12.2.1121"
